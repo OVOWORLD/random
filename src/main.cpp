@@ -10,4 +10,5 @@ int main( ){
 	// pass in width and height too:
 	ofRunApp(new ofApp());
 
+	//this is just another comment to check something//
 }
